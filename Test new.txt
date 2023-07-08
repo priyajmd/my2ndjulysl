@@ -1,2 +1,6 @@
 step 1 - git init
 step 2 - clone repo file name(clone https://github.com/priyajmd/my2ndjulysl.git)
+step 3 - creat a new text document in local and git bash there
+and write
+git status ---->this will show the files in red colour and those are uncommited files
+4
