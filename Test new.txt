@@ -1,0 +1,2 @@
+step 1 - git init
+step 2 - clone repo file name(clone https://github.com/priyajmd/my2ndjulysl.git)
